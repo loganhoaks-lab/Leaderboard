@@ -1,0 +1,15 @@
+a {
+    color: lightskyblue
+}
+
+
+h1, p {
+    text-align: center;
+    font-size: 70px;
+    color:blue
+}
+
+p {
+    font-size: 24px;
+    color: red
+}
